@@ -1,0 +1,17 @@
+
+
+
+.image {
+	position: absolute;
+	overflow: hidden;
+	margin: 0;
+	top: 0;
+	left: 30px;
+	padding: 0;
+	object-fit: cover;
+	z-index: -3;
+	display: ;
+	justify-content: center;
+    width: 80% ;
+    height: 80%;
+    }
